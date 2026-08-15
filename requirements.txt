@@ -1,0 +1,8 @@
+streamlit
+requests
+torch
+scikit-learn
+scipy
+pandas
+numpy
+joblib
